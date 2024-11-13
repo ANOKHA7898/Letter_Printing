@@ -1,5 +1,5 @@
 # pattern for letter D
-
+num = 9
 for row in range(num):
     for col in range(num//3):
         if row in [0,1,7,8] and col in[0,1,2]:
